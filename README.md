@@ -9,4 +9,4 @@ Welcome to my data portfolio! This repository showcases my work with Tableau das
 - **Key Insights**: Peak admission times, patient demographics, and service efficiency.
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/ayda-giacoman/)
+- **LinkedIn**: [Ayda Giacoman](https://www.linkedin.com/in/ayda-giacoman/)
