@@ -19,5 +19,12 @@ Welcome to my data portfolio! This repository showcases my work with Tableau das
   - Highlighted **song popularity** and album release dates.
   - Visualized the **emotional flow** of the setlist throughout the concert.
 
+### 3. [MIMIC SQL Python Analysis](./MIMIC_SQL_Python.ipynb)
+- **Description**: Jupyter Notebook demonstrating SQL queries and analysis using Python with MIMIC data.
+- **Tools Used**: Python, SQL, Jupyter Notebook
+- **Key Highlights**:
+  - Data extraction and analysis from the MIMIC database.
+  - Demonstration of SQL query integration in Python.
+
 ## Contact Information
 - **LinkedIn**: [Ayda Giacoman](https://www.linkedin.com/in/ayda-giacoman/)
