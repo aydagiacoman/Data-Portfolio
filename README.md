@@ -3,10 +3,13 @@ Welcome to my data portfolio! This repository showcases my work with Tableau das
 
 ## Featured Projects
 
-### 1. ER Dashboard
-- **Description**: A comprehensive dashboard visualizing emergency room data to highlight trends and performance.
+### 1. [ER Dashboard](https://public.tableau.com/app/profile/ayda.giacoman7925/viz/ERDashboard_17307533388530/ERDashboard?publish=yes)
+- **Description**: A comprehensive look at emergency room visits, highlighting key patient and service metrics.
 - **Tools Used**: Tableau
-- **Key Insights**: Peak admission times, patient demographics, and service efficiency.
+- **Key Insights**:
+  - Detailed patient demographics (age, gender, race).
+  - Insights on wait times, satisfaction, and peak visit hours.
+  - Top department referrals and service patterns.
 
 ### 2. [Eras Tour Setlist Analysis](https://public.tableau.com/views/Eras_Tour_Setlist_Ayda_Giacoman/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Description**: An interactive analysis of Taylor Swift's Eras Tour setlist.
